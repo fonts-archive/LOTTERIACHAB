@@ -39,6 +39,6 @@ font-face
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/LOTTERIACHAB/LOTTERIACHAB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/LOTTERIACHAB/LOTTERIACHAB.ttf') format('truetype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/LOTTERIACHAB/LOTTERIACHAB.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/LOTTERIACHAB/LOTTERIACHAB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/LOTTERIACHAB/LOTTERIACHAB.woff2') format('woff2');
 }
 ```
